@@ -44,7 +44,7 @@ int main(void)
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
 ```
-##OUTPUT
+## OUTPUT
 ![Exno 3 a](https://github.com/ramya23000505/Linux-Process-API-fork-wait-exec/assets/149370791/1f67f919-f0fd-4d98-a0f7-e00ac320c55a)
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -71,7 +71,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 ![Exno 3 b](https://github.com/ramya23000505/Linux-Process-API-fork-wait-exec/assets/149370791/714d3e53-fbe9-43b4-a180-bc28e6e52793)
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -103,7 +103,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 ![Exno 3 c](https://github.com/ramya23000505/Linux-Process-API-fork-wait-exec/assets/149370791/71bbce18-c838-4bfa-8fc8-0a9953efff7b)
 # RESULT:
 The programs are executed successfully.
