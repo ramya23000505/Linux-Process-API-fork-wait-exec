@@ -1,4 +1,3 @@
-![Exno 3 b](https://github.com/ramya23000505/Linux-Process-API-fork-wait-exec/assets/149370791/d3bf4d38-38b8-4cc3-8b89-006ee5daa803)# Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
